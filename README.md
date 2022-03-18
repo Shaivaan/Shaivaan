@@ -40,7 +40,7 @@ I was curious about technology when I was in class 10th while learning HTML. So 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaivaan&show_icons=true&locale=en&layout=compact" alt="Shaivaan" /></p> 
-
+</br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shaivaan&show_icons=true&locale=en" alt="Shaivaan" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaivaan&" alt="Shaivaan" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaivaan&" alt="Shaivaan"/></p>
