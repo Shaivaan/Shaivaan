@@ -7,7 +7,7 @@ I was curious about technology when I was in class 10th while learning HTML. So 
 
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" align="right" width="400" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeetsangam&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeetsangam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaivaan&label=Profile%20views&color=0e75b6&style=flat" alt="Shaivaan" /> </p>
 
 - 🌱 I’m currently learning **React**
 
