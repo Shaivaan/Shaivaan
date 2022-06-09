@@ -16,7 +16,7 @@ I was curious about technology when I was in class 10th while learning HTML. So 
 - 📫 How to reach me **smssmsvmas@gmail.com**
 
 - 📄 Know about my experiences 
-<a target="_blank" href="https://drive.google.com/file/d/17_Qem7b0hPY9pfuwFcstBPNH0ihJC92O/view?usp=sharing">Resume</a>
+<a target="_blank" href="https://drive.google.com/file/d/1hygMmGMowkYAKQyPEVqrKos1MdF8yFEF/view">Resume</a>
 
 - [Portfolio](https://shivanshumishra.netlify.app/)
 <h3 align="left">Connect with me:</h3>
