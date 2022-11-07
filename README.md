@@ -1,29 +1,29 @@
 ![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Shivanshu Mishra</h1>
-<p align="center">I am an aspiring Full-stack web developer from Masai School. With in-depth experience in using tech stacks like HTML, CSS, JavaScript, Advance Js, Node js, Express and Mongodb, I aspire to create meaningful products.
+<!-- <p align="center">I am an aspiring Full-stack web developer from Masai School. With in-depth experience in using tech stacks like HTML, CSS, JavaScript, Advance Js, Node js, Express and Mongodb, I aspire to create meaningful products.
 I was curious about technology when I was in class 10th while learning HTML. So I decided to build a career in the same field.I am learning REACT as a frontend library. I will love to contribute more in this field and also I will be love to face new challenges in the upcoming days.
-</p>
+</p> -->
 
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" align="right" width="400" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaivaan&label=Profile%20views&color=0e75b6&style=flat" alt="Shaivaan" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaivaan&label=Profile%20views&color=0e75b6&style=flat" alt="Shaivaan" /> </p> -->
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React**/ -->
 
-- 💬 Ask me about **MERN, HTML, CSS, JavaScript**
+<!-- - 💬 Ask me about **MERN, HTML, CSS, JavaScript** -->
 
 - 📫 How to reach me **smssmsvmas@gmail.com**
-
+<!-- 
 - 📄 Know about my experiences 
-<a target="_blank" href="https://drive.google.com/file/d/1hygMmGMowkYAKQyPEVqrKos1MdF8yFEF/view">Resume</a>
+<a target="_blank" href="https://drive.google.com/file/d/1hygMmGMowkYAKQyPEVqrKos1MdF8yFEF/view">Resume</a> -->
 
-- [Portfolio](https://shivanshumishra.netlify.app/)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- - [Portfolio](https://shivanshumishra.netlify.app/) -->
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/shivanshu-mishra-2b61a221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-kumar-sangam-09097421a/" height="30" width="40" /></a>
 
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
