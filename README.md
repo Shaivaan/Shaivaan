@@ -1,49 +1,68 @@
-![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
+# Hi there, I'm Shivanshu Mishra 👋
 
-<h1 align="center">Hi 👋, I'm Shivanshu Mishra</h1>
-<p align="center">I am an aspiring Full-stack web developer from Masai School. With in-depth experience in using tech stacks like HTML, CSS, JavaScript, Advance Js, Node js, Express and Mongodb, I aspire to create meaningful products.
-I was curious about technology when I was in class 10th while learning HTML. So I decided to build a career in the same field.I am learning REACT as a frontend library. I will love to contribute more in this field and also I will be love to face new challenges in the upcoming days.
-</p>
-
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400" alt="Coding">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaivaan&label=Profile%20views&color=0e75b6&style=flat" alt="Shaivaan" /> </p>
-
-- 🌱 I’m a web developer, basically **React**
-
-- 💬 Ask me about **MERN, Typescript, Avinode**
-
-- 📫 How to reach me **smssmsvmas@gmail.com**
-
-- 📄 Know about my experiences 
-<a target="_blank" href="https://drive.google.com/file/d/1hygMmGMowkYAKQyPEVqrKos1MdF8yFEF/view">Resume</a>
-
-- 👨🏻‍💻 Access to my portfolio  [Have a look](https://shivanshumishra.netlify.app/)
-
-- ⚡ Fun fact :  A developer who loves to live between coding and gaming.
-<h3 align="left">Connect with me:</h3>
-<p align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/shivanshu-mishra-2b61a221b/" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:smssmsvmas@gmail.com?subject=Connect via shivanshu's git"><img src="https://camo.githubusercontent.com/e0b4776967ebe33b13133f3c20167c4e73c24f06814ffa29f625889557dc9a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d48ea9eab9ecaa3aca332233a5ad80d6b2bd6462de5b2e2ff962bf452d078809/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d48ea9eab9ecaa3aca332233a5ad80d6b2bd6462de5b2e2ff962bf452d078809/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6cfd87ee07cd4d468dcf63db9bafe6fcf6dc3f6619956667dd4ff258d6b11fa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6cfd87ee07cd4d468dcf63db9bafe6fcf6dc3f6619956667dd4ff258d6b11fa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c3957842901e5baa389f3bb8758c8966683333b28493013062fcab5fab645e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/6c3957842901e5baa389f3bb8758c8966683333b28493013062fcab5fab645e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fc6a9ac276152e5ce963a17ed41213fdca1d4d0afd47859679f784dab0865db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9fc6a9ac276152e5ce963a17ed41213fdca1d4d0afd47859679f784dab0865db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Heroku-F7B500?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f267b9376a70404bbc1108f97329598b11a7b5e9add2001742889cc33b33b1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3f267b9376a70404bbc1108f97329598b11a7b5e9add2001742889cc33b33b1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F7B500?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73a6e93b6aa300bc9d34e397bb9193412439716d62a6854ff189dbc2e9de6ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64656a732d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/73a6e93b6aa300bc9d34e397bb9193412439716d62a6854ff189dbc2e9de6ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64656a732d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/nodejs-F7B500?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bc900121d5ea7a3e80b1ce3f430c47be036013b57d1fae78835dfde85444d03d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bc900121d5ea7a3e80b1ce3f430c47be036013b57d1fae78835dfde85444d03d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-F7B500?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad6b4b8e27f3a4f39cd6a725a77fcc28cd8536ad22dc1be04bb531c37e4f9220/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ad6b4b8e27f3a4f39cd6a725a77fcc28cd8536ad22dc1be04bb531c37e4f9220/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d4637423530303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/express.js-F7B500?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
-
-</p>
-
-<div>
-  <span> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaivaan&show_icons=true&locale=en&layout=compact" alt="Shaivaan" width='40%'/></span>
-  <span> <img src="https://github-readme-stats.vercel.app/api?username=Shaivaan&show_icons=true&locale=en" alt="Shaivaan" width='55%'/></span>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Frontend+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
-<p align="center">
- 
-</p>
-<p align="center">
- 
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaivaan" alt="Shaivaan" width='60%'/>
-</p>
+
+## About Me 🚀
+I'm a Frontend Developer at Intraedge, previously at Metafic, passionate about creating clean, efficient, and user-friendly web applications. As a Masai School alumni, I've developed a strong foundation in full-stack development with a focus on the MERN stack.
+
+### What I Do 💻
+- 🔭 Frontend Development with React & TypeScript
+- 🌱 Continuously improving my DSA skills
+- 🎮 Gaming enthusiast in my free time
+- 🧠 Leveraging AI as a second brain
+- 🎯 Focus on writing maintainable, debuggable code
+
+## Tech Stack 🛠️
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443737?style=flat-square&logo=react&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Testing & Tools
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![RTL](https://img.shields.io/badge/-RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Enzyme](https://img.shields.io/badge/-Enzyme-FF4154?style=flat-square&logo=testing-library&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+
+## My Approach 🎯
+- 📐 Invest time in robust component architecture
+- ♻️ Focus on code reusability
+- 🔍 Minimize debugging through proper planning
+- 🏗️ Build scalable solutions
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaivaan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaivaan&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+## Let's Connect! 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-mishra-2b61a221b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://shivanshumishra.netlify.app/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ss_ag)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/smssmsvmas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshumish25@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1hygMmGMowkYAKQyPEVqrKos1MdF8yFEF/view)
+
+### Fun Facts 🎈
+- 🎓 Self-taught developer
+- 🤖 AI enthusiast
+- 🚫 Living social media free (No Instagram, Facebook, or Snapchat)
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaivaan&color=blueviolet" alt="Profile Views" />
+</div>
